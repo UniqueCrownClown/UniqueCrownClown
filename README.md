@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm clown</h1>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UniqueCrownClown)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=UniqueCrownClown)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=UniqueCrownClown)
 
