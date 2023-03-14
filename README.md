@@ -2,15 +2,6 @@
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer
-
-**About me**
-
-- 💼 FrontEnd developer
-
-- ❤️ I donot love writing code, and building fun experiments on type-level
-
-
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=UniqueCrownClown&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UniqueCrownClown&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
